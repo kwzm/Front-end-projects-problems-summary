@@ -1,5 +1,5 @@
-# react-project-problem-summary
-React project problem summary. React 技术栈的项目经验教训总结。
+# Front-end-projects-problems-summary
+Lessons learned from front-end projects. 前端项目经验教训总结。
 ## 目录
 - [antd](./docs/antd.md)
 - [browser](./docs/browser.md)
